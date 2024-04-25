@@ -40,7 +40,7 @@ You are required to use either the PERN (PostgreSQL, Express.js, React.js, Node.
 - Provide documentation as needed for setup and usage.
 
 ## Deadline
-The deadline for the project submission is saturday  27/04/2024.
+The deadline for the project submission is saturday  28/04/2024.
 
 ## Submission
 Please submit your final project via [this Google Form](https://forms.gle/aSh16djHH45StBKs7).
